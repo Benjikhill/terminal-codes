@@ -11,10 +11,11 @@
 - cd .. ->         geht aus dem Ordner raus.
 - touch Dateiname -> Datei anlegen.
 - rm Dateiname ->     löscht die Datei
-- rm-rf Ordnername -> löscht den Ordner.
+- rm -rf Ordnername -> löscht den Ordner.
 - echo Dein Text ->   Text schreiben.
 - echo Dein Text > Dateiname -> Schiebt den Text in die Datei.
 - cat Dateiname ->              Sagt was in der Datei steht.
+- cat Dateiname > Dateiname ->  Kopiert den Inhalt in die andere Datei.
 - mv Dateiname Ordnername ->    Verschiebt die Datei.
 - mv Dateiname .. ->            raus vershieben.
 - mv Dateiname Dateiname ->     Umbennenen.
