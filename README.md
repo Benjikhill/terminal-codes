@@ -1,1 +1,38 @@
 # terminal-codes
+
+- pwd ->    wo bin ich?
+- clear ->  Terminal leeren!
+- ls ->     zeigt mir die Liste was da alles ist.
+- ls -l ->  zeigt alles detailiert an.
+- ls -a ->  zeigt alle Dateien an.
+- ls -a -l -> zeigt beides an.
+- mkdir ->    erzuegt einen Ordner.
+- cd ordnername -> geht in den Ordner.
+- cd .. ->         geht aus dem Ordner raus.
+- touch Dateiname -> Datei anlegen.
+- rm Dateiname ->     löscht die Datei
+- rm-rf Ordnername -> löscht den Ordner.
+- echo Dein Text ->   Text schreiben.
+- echo Dein Text > Dateiname -> Schiebt den Text in die Datei.
+- cat Dateiname ->              Sagt was in der Datei steht.
+- mv Dateiname Ordnername ->    Verschiebt die Datei.
+- mv Dateiname .. ->            raus vershieben.
+- mv Dateiname Dateiname ->     Umbennenen.
+- cp Dateiname Ordnername ->    Kopieren.
+- cp Dateiname Ordnername/Dateiname -> Umbennenen und verschieben.
+- which cat ->      Sagt wo der Cat folder ist.
+- code . -> Öffnet VS code in dem Ordner.
+- code Dateiname -> Öffnet die Datei in VS code.
+
+- git branch -> Listet die existierenden Branches.
+- Q -> um zurück oder raus zu gehen.
+- git branch -D Dateiname -> löscht den Branch.
+- git branch Branchname ->    erstellt einen neuen Branch.
+- git checkout Branchname ->  kann man aus und zu einen Branch wechseln.
+- git checkout -b Branchname -> wechselt zu einen neuen Branch oder erzeugt gleichzeitig einen neuen Branch.
+- git checkout main ->        geht zurück zu main.
+- git log ->              zeigt den letzten commit.
+- git add . ->            Es wird gestaget.
+- git commit -m 'feat: Commitname' -> Es wird Commited.
+- git checkout main ->    geht zurück zu main.
+- git merge Branchname -> Verbindet die Branches wieder.
